@@ -1,0 +1,24 @@
+{
+  "name": "cohort-4-restfulapi",
+  "version": "1.0.0",
+  "description": "creating restfulapi endpoints",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "git",
+    "postman"
+  ],
+  "author": "alimi kehinde",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
