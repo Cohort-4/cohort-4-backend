@@ -5,7 +5,8 @@
   "type": "module",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon app.js",
+    "dev": "node --watch app.js"
   },
   "keywords": [
     "nodejs",
